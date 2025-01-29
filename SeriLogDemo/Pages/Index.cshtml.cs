@@ -14,7 +14,7 @@ namespace SeriLogDemo.Pages
 
         public void OnGet()
         {
-
+            _logger.LogInformation("My Logger message");
         }
     }
 }
