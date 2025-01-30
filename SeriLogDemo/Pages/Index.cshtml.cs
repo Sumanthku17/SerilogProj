@@ -26,7 +26,7 @@ namespace SeriLogDemo.Pages
                     }
                     else
                     {
-                        _logger.LogInformation("val if i is {loopCountValue}", i);
+                        _logger.LogInformation("val of i is {loopCountValue}", i);
                     }
                 }
             }

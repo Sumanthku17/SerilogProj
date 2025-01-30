@@ -37,6 +37,8 @@ app.MapRazorPages();
 app.Run();
 
 
+// DOCKER COMMAND USED : docker run -d --restart unless-stopped --name seq -e ACCEPT_EULA=Y -v C:\PracticeProjects\SeriLogDemoApp:/data -p 8081:80 datalust/seq:latest
+
 namespace SeriLogDemo
 {
     public class program

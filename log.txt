@@ -37,3 +37,41 @@ System.Exception: This is DEMO app
    at SeriLogDemo.Pages.IndexModel.OnGet() in C:\PracticeProjects\SeriLogDemoApp\SeriLogDemo\Pages\Index.cshtml.cs:line 25
 01/30/2025 16:03:49 HTTP "GET" "/" responded 200 in 1179.5138 ms
 01/30/2025 16:03:53 HTTP "GET" "/Privacy" responded 200 in 30.2917 ms
+01/30/2025 17:04:31 My Logger message
+01/30/2025 17:04:31 val if i is 0
+01/30/2025 17:04:31 val if i is 1
+01/30/2025 17:04:31 val if i is 2
+01/30/2025 17:04:31 val if i is 3
+01/30/2025 17:04:31 We caught this exeception, at index get call
+System.Exception: This is DEMO app
+   at SeriLogDemo.Pages.IndexModel.OnGet() in C:\PracticeProjects\SeriLogDemoApp\SeriLogDemo\Pages\Index.cshtml.cs:line 25
+01/30/2025 17:04:31 HTTP "GET" "/" responded 200 in 697.8773 ms
+01/30/2025 17:05:13 HTTP "GET" "/Privacy" responded 200 in 15.2322 ms
+01/30/2025 17:07:10 My Logger message
+01/30/2025 17:07:10 val if i is 0
+01/30/2025 17:07:10 val if i is 1
+01/30/2025 17:07:10 val if i is 2
+01/30/2025 17:07:10 val if i is 3
+01/30/2025 17:07:10 We caught this exeception, at index get call
+System.Exception: This is DEMO app
+   at SeriLogDemo.Pages.IndexModel.OnGet() in C:\PracticeProjects\SeriLogDemoApp\SeriLogDemo\Pages\Index.cshtml.cs:line 25
+01/30/2025 17:07:11 HTTP "GET" "/" responded 200 in 517.2686 ms
+01/30/2025 17:08:00 My Logger message
+01/30/2025 17:08:00 val if i is 0
+01/30/2025 17:08:00 val if i is 1
+01/30/2025 17:08:00 val if i is 2
+01/30/2025 17:08:00 val if i is 3
+01/30/2025 17:08:00 We caught this exeception, at index get call
+System.Exception: This is DEMO app
+   at SeriLogDemo.Pages.IndexModel.OnGet() in C:\PracticeProjects\SeriLogDemoApp\SeriLogDemo\Pages\Index.cshtml.cs:line 25
+01/30/2025 17:08:00 HTTP "GET" "/" responded 200 in 90.0153 ms
+01/30/2025 17:08:32 HTTP "GET" "/Privacy" responded 200 in 8.7398 ms
+01/30/2025 17:09:33 My Logger message
+01/30/2025 17:09:33 val of i is 0
+01/30/2025 17:09:33 val of i is 1
+01/30/2025 17:09:33 val of i is 2
+01/30/2025 17:09:33 val of i is 3
+01/30/2025 17:09:33 We caught this exeception, at index get call
+System.Exception: This is DEMO app
+   at SeriLogDemo.Pages.IndexModel.OnGet() in C:\PracticeProjects\SeriLogDemoApp\SeriLogDemo\Pages\Index.cshtml.cs:line 25
+01/30/2025 17:09:33 HTTP "GET" "/" responded 200 in 538.9642 ms
