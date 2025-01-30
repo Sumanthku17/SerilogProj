@@ -1,0 +1,39 @@
+01/30/2025 15:42:04 My Logger message
+01/30/2025 15:42:04 val if i is 0
+01/30/2025 15:42:04 val if i is 1
+01/30/2025 15:42:04 val if i is 2
+01/30/2025 15:42:04 val if i is 3
+01/30/2025 15:42:04 We caught this exeception, at index get call
+System.Exception: This is DEMO app
+   at SeriLogDemo.Pages.IndexModel.OnGet() in C:\PracticeProjects\SeriLogDemoApp\SeriLogDemo\Pages\Index.cshtml.cs:line 25
+01/30/2025 15:42:05 HTTP "GET" "/" responded 200 in 1846.5265 ms
+01/30/2025 15:42:20 My Logger message
+01/30/2025 15:42:20 val if i is 0
+01/30/2025 15:42:20 val if i is 1
+01/30/2025 15:42:20 val if i is 2
+01/30/2025 15:42:20 val if i is 3
+01/30/2025 15:42:20 We caught this exeception, at index get call
+System.Exception: This is DEMO app
+   at SeriLogDemo.Pages.IndexModel.OnGet() in C:\PracticeProjects\SeriLogDemoApp\SeriLogDemo\Pages\Index.cshtml.cs:line 25
+01/30/2025 15:42:20 HTTP "GET" "/" responded 200 in 237.6467 ms
+01/30/2025 15:42:31 HTTP "GET" "/Privacy" responded 200 in 39.1849 ms
+01/30/2025 15:57:56 My Logger message
+01/30/2025 15:57:56 val if i is 0
+01/30/2025 15:57:56 val if i is 1
+01/30/2025 15:57:56 val if i is 2
+01/30/2025 15:57:56 val if i is 3
+01/30/2025 15:57:57 We caught this exeception, at index get call
+System.Exception: This is DEMO app
+   at SeriLogDemo.Pages.IndexModel.OnGet() in C:\PracticeProjects\SeriLogDemoApp\SeriLogDemo\Pages\Index.cshtml.cs:line 25
+01/30/2025 15:57:57 HTTP "GET" "/" responded 200 in 1732.6259 ms
+01/30/2025 15:58:05 HTTP "GET" "/Privacy" responded 200 in 66.6698 ms
+01/30/2025 16:03:48 My Logger message
+01/30/2025 16:03:49 val if i is 0
+01/30/2025 16:03:49 val if i is 1
+01/30/2025 16:03:49 val if i is 2
+01/30/2025 16:03:49 val if i is 3
+01/30/2025 16:03:49 We caught this exeception, at index get call
+System.Exception: This is DEMO app
+   at SeriLogDemo.Pages.IndexModel.OnGet() in C:\PracticeProjects\SeriLogDemoApp\SeriLogDemo\Pages\Index.cshtml.cs:line 25
+01/30/2025 16:03:49 HTTP "GET" "/" responded 200 in 1179.5138 ms
+01/30/2025 16:03:53 HTTP "GET" "/Privacy" responded 200 in 30.2917 ms
